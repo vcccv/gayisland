@@ -1,6 +1,4 @@
-function nece takes nothing returns nothing
-	call GPF(GetEnumUnit())
-endfunction
+
 
 function necs takes nothing returns nothing
 	call GPT(GetEnumUnit(),-9024.00,-18496.00,0.00)
